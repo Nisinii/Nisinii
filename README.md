@@ -37,10 +37,8 @@ Here are some ideas to get you started:
 <h3>About Me</h3>
 
 - 🎓 A Software Engineering Graduate.
-- 💼 Associate Software Engineer at Petvisor.
 - 🚀 Passionate about coding, problem-solving, and continuous learning.
-- 🌱 I’m currently learning about FastApi and LangChain.
-- 🔭 I’m currently working on an OpenAI chatbot.
+- 🌱 I’m currently learning about Node.js and PostgreSQL.
 - 📫 How to reach me **wnisini.niketha@gmail.com**
 
 </br>
@@ -56,7 +54,6 @@ Here are some ideas to get you started:
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
 <a href="https://backbonejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/backbonejs/backbonejs-original-wordmark.svg" alt="backbonejs" width="40" height="40"/> </a>
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
 
 </br>
