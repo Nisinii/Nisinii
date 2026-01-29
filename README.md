@@ -1,13 +1,13 @@
-<h1 align="center">Hello, I'm Nisini Niketha!</h1>
-<h3 align="center">✨ Digital Alchemist | Software Engineer | MSc. @ University of Gothenburg ✨</h3>
+<h1 align="center">Hello, I'm Nisini Niketha! 🐚</h1>
+<h3 align="center">🫧 Digital Alchemist | Software Engineer | MSc. @ University of Gothenburg 🫧</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&label=Profile%20Views&color=9b59b6&style=flat-square" alt="nisini-niketha" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Nisinii">
-    <img src="https://readme-typing-svg.herokuapp.com?color=A020F0&size=17&lines=Transmuting+code+into+digital+art;Full-stack+Engineer+&amp;+Design+Enthusiast;Building+immersive+3D+web+experiences!" alt="Typing SVG">
+  <a href="[https://github.com/Nisinii](https://github.com/Nisinii)">
+    <img src="https://readme-typing-svg.herokuapp.com?color=A020F0&size=16&lines=Turning+code+into+spells.+One+line+at+a+time!;" alt="Typing SVG">
   </a>
 </p>
 
@@ -15,21 +15,25 @@
 
 ### About Me
 
-I am a Software Engineer with over 2 years of experience in creating scalable applications and immersive web experiences. Currently, I am expanding my craft through a Master’s in Software Engineering and Management at the **University of Gothenburg**. 
+I’ve always seen software as a form of modern alchemy, turning lines of logic into immersive digital experiences. With over two years of professional experience as a Software Engineer, I specialize in building the 'hidden machinery' of robust backends and the 'visual magic' of interactive 3D frontends.
 
-I specialize in bridging the gap between strong backend systems and creative, interactive frontends. Whether it's managing real-time data streams or building 3D environments, I focus on performance, scalability, and high-end design.
+Currently, I’m at the University of Gothenburg, pursuing a Master’s in Software Engineering and Management to master the art of scaling complex systems. Beyond the technical rigor of real-time data and 3D rendering, my true focus is on building software that actually makes an impact. I want to create impactful, high-end digital tools that solve real problems and leave a lasting impression on the people who use them.
 
 ---
 
 ### Top Repositories
 
-Here are the primary artifacts of my work, focusing on the intersection of AI, narrative, and strategic design:
+Here are the primary artifacts of my work, focusing on the intersection of AI and strategic design:
 
-- [**Audio Craft**](https://github.com/Nisinii/AudioCraft): A digital screenwriter that utilizes **LLMs** to bridge literature and audio. It automates script generation, character direction, and foley cues from narrative text.
-- [**Kairos**](https://github.com/Nisinii/Kairos): An advanced career strategy platform that uses **machine perception** to analyze professional expertise, transforming traditional applications into a tactical, interactive dialogue.
-- [**Lumina**](https://github.com/Nisinii/Lumina): A digital curator platform designed to transform passive image viewing into a dialogue between human creativity and silicon intelligence in a high-fidelity gallery environment.
-- [**Vibe Check**](https://github.com/Nisinii/VibeCheck): A location discovery engine that quantifies the "vibe" of venues using **AI** and **real-time social frequency data**.
-- [**TechInquireHub**](https://github.com/Nisinii/TechInquireHub): A knowledge-sharing ecosystem combining a **PHP-based backend** with a **Backbone.js** frontend to streamline developer troubleshooting and documentation.
+- [**Audio Craft**](https://github.com/Nisinii/AudioCraft): A specialized tool that converts narrative prose into production-ready audio scripts. It uses LLMs to parse text and automatically inject character direction and foley cues, effectively acting as an automated digital screenwriter.
+  
+- [**Kairos**](https://github.com/Nisinii/Kairos): A career strategy engine built to analyze professional experience through the lens of machine perception. It moves beyond static resumes, turning work history into a tactical data set for interactive career mapping.
+  
+- [**Lumina**](https://github.com/Nisinii/Lumina): An interactive "digital curator" that uses computer vision to analyze artwork. It creates an immersive, high-fidelity gallery experience where users can engage in a technical dialogue with the visual data.
+  
+- [**Vibe Check**](https://github.com/Nisinii/VibeCheck): A location discovery tool designed to quantify the atmosphere of a venue. It processes real-time social frequency data and AI-driven sentiment to provide a data-backed "vibe" score for local spots.
+  
+- [**TechInquireHub**](https://github.com/Nisinii/TechInquireHub): A full-stack developer Q&A platform. I built this to solve documentation friction, pairing a PHP/CodeIgniter backend with a Backbone.js frontend for a fast, categorized troubleshooting environment.
 
 ---
 
@@ -84,11 +88,9 @@ Here are the primary artifacts of my work, focusing on the intersection of AI, n
 ### GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/Nisinii">
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nisinii&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&ring=bd93f9&fire=bd93f9&sideNums=bd93f9" alt="GitHub Streak Stats" />
-  </a>
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nisinii&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+  <a href="https://github.com/Nisinii"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=Nisinii&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
 </p>
 
+
 ---
-⭐️ "Turning code into spells. One line at a time!"
+♟️ Feel Free to Connect with me, I look forward to working on impactful projects that drive the world forward
