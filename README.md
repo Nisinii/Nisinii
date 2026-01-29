@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR-GITHUB-USERNAME">
+  <a href="https://github.com/Nisinii">
     <img src="https://readme-typing-svg.herokuapp.com?color=A020F0&size=17&lines=Transmuting+code+into+digital+art;Full-stack+Engineer+&amp;+Design+Enthusiast;Building+immersive+3D+web+experiences!" alt="Typing SVG">
   </a>
 </p>
@@ -15,13 +15,13 @@
 
 ### About Me
 
-I am a **Digital Alchemist** and Software Engineer with over 2 years of experience in creating scalable applications and immersive web experiences. Currently, I am expanding my craft through a Master’s in Software Engineering and Management at the **University of Gothenburg**. 
+I am a Software Engineer with over 2 years of experience in creating scalable applications and immersive web experiences. Currently, I am expanding my craft through a Master’s in Software Engineering and Management at the **University of Gothenburg**. 
 
-I specialize in bridging the gap between robust backend systems and creative, interactive frontends. Whether it's managing real-time data streams or building 3D environments, I focus on performance, scalability, and high-end design.
+I specialize in bridging the gap between strong backend systems and creative, interactive frontends. Whether it's managing real-time data streams or building 3D environments, I focus on performance, scalability, and high-end design.
 
 ---
 
-### The Alchemist's Projects
+### Top Repositories
 
 Here are the primary artifacts of my work, focusing on the intersection of AI, narrative, and strategic design:
 
@@ -33,7 +33,7 @@ Here are the primary artifacts of my work, focusing on the intersection of AI, n
 
 ---
 
-### Technical Arsenal
+### Technical Stack
 
 <p align="center"> 
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" /> 
@@ -81,11 +81,13 @@ Here are the primary artifacts of my work, focusing on the intersection of AI, n
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/Nisinii"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=Nisinii&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&ring=bd93f9&fire=bd93f9&sideNums=bd93f9"></a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nisinii&layout=compact&theme=dracula" alt="Top Langs" width="36%" />
+  <a href="https://github.com/Nisinii">
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nisinii&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&ring=bd93f9&fire=bd93f9&sideNums=bd93f9" alt="GitHub Streak Stats" />
+  </a>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nisinii&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
